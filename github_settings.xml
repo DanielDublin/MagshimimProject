@@ -1,0 +1,6 @@
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="daniel_du@bialik.ort.org.il" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>
